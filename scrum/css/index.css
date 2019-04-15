@@ -1,0 +1,40 @@
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+#task1, #task2 {
+    width: 200px; 
+    height: 70px;
+    padding: 0.5em;
+    float: center;  
+    background-color: darkcyan;
+}
+/*story 2 */
+#task21, #task22 {  width: 200px;
+    height: 70px;
+    padding: 0.5em;
+    float: center;
+    background-color:fuchsia; }
+
+#task31, #task32 {
+    width: 200px;
+    height: 70px;
+    padding: 0.5em;
+    float: center;
+    background-color: goldenrod;
+}
+#droptask1, #droptask2, #droptask21, #droptask22, #droptask31, #droptask32
+{
+width: 230px;
+height: 70px;
+padding: 0.5em; 
+float: center;
+opacity: 20%;
+}
+#tr {text-align: center;} 
+
+  
